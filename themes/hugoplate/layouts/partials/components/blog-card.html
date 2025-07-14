@@ -11,11 +11,11 @@
   {{ $categories:= .Params.categories }}
   {{ if $categories }}
     <ul class="mb-4">
-      <li class="mr-4 inline-block">
+      {{/*  <li class="mr-4 inline-block">
         <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
           <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.author }}
         </a>
-      </li>
+      </li>  */}}
       <li class="mr-4 inline-block">
         <i class="fa-regular fa-folder mr-1"></i>
         {{ range $i,$p:= $categories }}
@@ -28,9 +28,13 @@
           </a>
         {{ end }}
       </li>
+      <li class="mr-4 inline-block">
+        <i class="fa-regular fa-clock mr-2"></i>
+        {{ time.Format ":date_long" .PublishDate }}
+      </li>
     </ul>
   {{ end }}
-  <p class="mb-6">{{ .Summary | plainify }}</p>
+  <p class="mb-6">{{ .Summary }}</p>
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ T "read_more" }}
   </a>

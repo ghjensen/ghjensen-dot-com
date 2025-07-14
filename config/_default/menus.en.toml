@@ -12,39 +12,49 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Research"
+url = "/research"
 weight = 3
 
 [[main]]
+name = "Teaching"
+url = "/teaching"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+name = "DH Projects"
+url = "/dh"
+weight = 5
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "DH Projects"
+name = "Canadian Modernist Magazines Project"
+url = "/dh/canadian-modernist-magazines-project"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+parent = "DH Projects"
+name = "Mary Butts Letters Project"
+url = "/dh/mary-butts-letters-project"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+parent = "DH Projects"
+name = "Canadian HSS Commons"
+url = "/dh/hss-commons"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+parent = "DH Projects"
+name = "May Day Digital Critical Edition"
+url = "/dh/may-day"
 
+[[main]]
+parent = "DH Projects"
+name = "Media Manifesto"
+url = "/dh/media-manifesto"
+
+[[main]]
+parent = "DH Projects"
+name = "MySQL database and OpenRefine workflow"
+url = "/dh/mysql-openrefine-workflow"
 
 # footer menu
 [[footer]]
@@ -53,11 +63,16 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Research"
+url = "/research"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
+name = "Teaching"
+url = "/teaching"
 weight = 3
+
+[[footer]]
+name = "DH Projects"
+url = "/dh"
+weight = 4

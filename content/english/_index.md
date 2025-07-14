@@ -1,53 +1,56 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Welcome!"
+  subtitle: "I'm a researcher and teacher in English literature and digital humanities."
+  content: "Currently, I work as an **Assistant Director** and **Digital Humanities Research Lead** in the [Electronic Textual Cultures Lab](https://etcl.uvic.ca/) at the University of Victoria in British Columbia, Canada. To learn more about me and my work, please see [my bio](/about) or read about my [teaching,](/teaching) [research,](/research) and [DH projects.](/dh)"
+  image: "/images/ghj_portrait8.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "See my Bio"
+    link: "/about"
 
-# Features
-features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+# Previews
+previews:
+  - title: "Research"
+    image: "/images/cmmp_banner.jpg"
+    content: "My award-winning research draws on formal academic training in English literature (PhD, MA, BA) and digital humanities (Certificate). Areas of research expertise include:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Twentieth and twenty-first-century literatures in Canada"
+      - "Literary modernism, including 'late' and 'global' forms"
+      - "Modern poetry and poetics"
+      - "Literature and religion"
+      - "[Digital Humanities](#digitalhumanities) (digital publishing; archives; digitization, textual encoding, and transformation; digital research infrastructures; community engagement; and more)"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Read more"
+      link: "/research"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Teaching"
+    image: "/images/syllabi.png"
+    content: "Teaching and mentoring—whether in the classroom, in a lab setting, and at academic events—is one of the most rewarding parts of my work. I have over a decade of experience teaching in higher education as well as a **Certificate in University Teaching and Learning**. I have taught and mentored in various roles, including:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "University course designer and instructor"
+      - "Undergraduate and graduate lecturer and guest speaker"
+      - "In-lab supervisor for students and programmers from all over the world"
+      - "Organizer and leader of conferences, workshops, talks, demos, and community-building sessions in Canada, the USA, Australia, England, the UAE, Poland, the Netherlands, and beyond"
+      - "Employer—as Principal Investigator (academia) and Executive Director (industry)"
+      - "Mentor for undergraduate and graduate students in English through working groups and academic societies"
+      - "Research assistant and tutorial leader"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Read more"
+      link: "/teaching"
+
+  - title: "<a name=\"digitalhumanities\" style=\"scroll-margin-top:100px;\">DH Projects</a>"
+    image: "/images/hss-commons-screenshot.png"
+    content: "I have been involved in digital humanities (DH) projects for over a decade in various research, teaching, leadership, and development/designer/UX roles. This work builds on my industry experience as the former Executive Director of a web design company (2001-2011). Some of the grant-funded DH projects I've led or worked on include:"
+    bulletpoints:
+      - "[The Canadian Humanities and Social Sciences Commons](/dh/hss-commons/)"
+      - "[The Canadian Modernist Magazines Project](/dh/canadian-modernist-magazines-project/)"
+      - "[The Mary Butts Letters Project](/dh/mary-butts-letters-project/)"
+    button:
+      enable: true
+      label: "Read more"
+      link: "/dh"
 ---

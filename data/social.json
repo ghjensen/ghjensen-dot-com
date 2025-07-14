@@ -1,24 +1,29 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "orcid",
+      "icon": "fab fa-orcid",
+      "link": "https://orcid.org/0000-0001-8160-7792"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "hsscommons",
+      "icon": "fab fa-canadian-maple-leaf",
+      "link": "https://hsscommons.ca/en/members/1069"
     },
     {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "name": "kcommons",
+      "icon": "fab fa-k",
+      "link": "https://hcommons.org/members/ghjensen/"
     },
     {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "googlescholar",
+      "icon": "fab fa-google",
+      "link": "https://scholar.google.ca/citations?user=HbIJu44AAAAJ&hl=en"
+    },
+    {
+      "name": "xtwitter",
+      "icon": "fab fa-square-x-twitter",
+      "link": "https://twitter.com/grahamhjensen"
     }
   ]
 }
