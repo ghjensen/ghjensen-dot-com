@@ -33,6 +33,11 @@ url = "/dh/canadian-modernist-magazines-project"
 
 [[main]]
 parent = "DH Projects"
+name = "MaRGAN"
+url = "/dh/margan"
+
+[[main]]
+parent = "DH Projects"
 name = "Mary Butts Letters Project"
 url = "/dh/mary-butts-letters-project"
 
