@@ -15,21 +15,25 @@ draft: false
 ### Books and Edited Volumes
 
 - _Unorthodox Modernisms: Varieties of Religious Expression in Twentieth-Century Canadian Poetry._ \[Under advance contract with University of Toronto Press.\]
-- _Continuation: A Critical Edition._ By Louis Dudek. Edited, with introduction, appendices, and notes, by Graham H. Jensen. \[Under advance contract with University of Ottawa Press.\]
+- Amell, Brittany, Graham Jensen (co-editor), Alan Colín-Arce, Randa El Khatib, Caroline Winter, Alyssa Arbuckle, Faraz Forghan Parast, and Ray Siemens. _Engaging Platforms in Open Scholarship_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Engaging_Platforms_in_Open_Scholarship.
+- Colín-Arce, Alan, Maggie Sardino, Eduardo Muñoz Francisco, Graham Jensen (co-editor and contributor), Caroline Winter, Alyssa Arbuckle, and Ray Siemens. _Engaging Knowledge Diversity_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Engaging_Knowledge_Diversity.
+- Winter, Caroline, Alan Colín-Arce, JT Kern, Randa El Khatib, Alyssa Arbuckle, Vitor Yano, Anna Honcharova, Graham Jensen (contributor), Maggie Sardino, Britt Amell, Ray Siemens, with the ETCL and INKE Research Groups. _Knowledge Mobilization in the Humanities_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Knowledge_Mobilization_in_the_Humanities.
 - Jensen, Graham, editor. _Open Scholarship Press Curated Volume: Connection_, Open Scholarship Press, 2023, https://doi.org/10.21428/47bc126e.0ca461a4. Originally published via Wikibooks, 2023.
-- Jensen, Graham (lead editor), Tyler Fontenot, Alan Colín-Arce, Alyssa Arbuckle, Vitor Yano, Anna Honcharova, Caroline Winter, and Ray Siemens, with the INKE and ETCL Research Groups. _Open Scholarship Press Collections: Connection_, Open Scholarship Press, 2022, https://openscholarshippress.pubpub.org/open-scholarship-press-collections-connection.
+- Jensen, Graham (lead editor), Tyler Fontenot, Alan Colín-Arce, Alyssa Arbuckle, Vitor Yano, Anna Honcharova, Caroline Winter, and Ray Siemens, with the INKE and ETCL Research Groups. _Open Scholarship Press Collections: Connection_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Open_Scholarship_Press_Collections:_Connection. Originally published via PubPub, 2022.
+- Arbuckle, Alyssa, Caroline Winter, JT Kern, Vitor Yano, Anna Honcharova, Alan Colín-Arce, Graham Jensen (contributor), and Ray Siemens, with Jon Bath, Jon Saklofske, and the INKE and ETCL Research Groups. _Open Scholarship Press Collections: Community_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Open_Scholarship_Press_Collections:_Community. Originally published via PubPub, 2022.
+- Winter, Caroline, Alyssa Arbuckle, JT Kern, Vitor Yano, Anna Honcharova, Tyler Fontenot, Graham Jensen (contributor), Alan Colín-Arce, and Ray Siemens, with Tanja Niemann and Lynne Siemens, and the INKE and ETCL Research Groups. _Open Scholarship Press Collections: Policy_, Open Scholarship Press, 2025, https://en.wikibooks.org/wiki/Open_Scholarship_Press_Collections:_Policy. Originally published via PubPub, 2022.
 
 ### Edited Special Issues
 
-- [Forthcoming]	_Digital Humanities Summer Institute 2023/2024 Conference & Colloquium_, double special issue of _Interdisciplinary Digital Engagement in Arts & Humanities_, edited by Kyle Dase, Graham Jensen, and Jade McDougall.
-- [Forthcoming]	_Creative Approaches to Open Social Scholarship_, special issue of _Interdisciplinary Digital Engagement in Arts & Humanities_, edited by Tully Barnett, Graham Jensen, John Maxwell, Ray Siemens, and Tyne Sumner.
+- _Digital Humanities Summer Institute 2023/2024 Conference & Colloquium_, double special issue of _Interdisciplinary Digital Engagement in Arts & Humanities_, edited by Kyle Dase, Jade McDougall, and Graham Jensen, vol. 6, no. 1, 2026, https://www.erudit.org/en/journals/ideah/2026-v6-n1-ideah010737.
 - _Digital Humanities Summer Institute 2022 Conference & Colloquium_, special issue of _Interdisciplinary Digital Engagement in Arts & Humanities_, edited by Graham Jensen and Caroline Winter, vol. 4, no. 3, 2024,  https://ideah.pubpub.org/vol4iss3.
 - _Digital Humanities Summer Institute 2021 Conference & Colloquium_, special issue of _Interdisciplinary Digital Engagement in Arts & Humanities_, edited by Graham Jensen, Lindsey Seatter, and Caroline Winter, vol. 3, no. 2, 2022,  https://ideah.pubpub.org/vol3iss2.
 - _Engaging Open Social Scholarship_, special issue of _Pop! Public. Open. Participatory_, edited by Alyssa Arbuckle, Tully Barnett, Graham Jensen, and Ray Siemens, no. 3, 2021, [doi.org/10.54590/pop.2021.001](https://doi.org/10.54590/pop.2021.001).
 
 ### Journal Articles, Book Chapters, and Introductions
 
-- [Forthcoming] Alan Colín-Arce, Maggie Sardino, Eduardo Muñoz Francisco, Graham Jensen, Caroline Winter, Alyssa Arbuckle, and Ray Siemens. “Engaging Knowledge Diversity: A Living Document.” _Interdisciplinary Digital Engagement in Arts & Humanities_.
+- Colín-Arce, Alan, Graham Jensen (co-author), Brittany Amell, and Ray Siemens. “Multilingualism as Infrastructural Imperative: Language Diversity in Digital Knowledge Commons.” _Digital Humanities Quarterly_, translated into Spanish by Alan Colín-Arce and into Portuguese by Leonardo Colato and Franco Guglielmoni, vol. 20, no. 1, 2026, https://doi.org/10.63744/cdnnak973twq.
+- Jensen, Graham (lead author), Sajib Ghosh, Archie To, and Ray Siemens. “Open Infrastructure and the Threat of “Vanishing” Journals: Leveraging Open Knowledge Commons, Open Source Software, and DIY Solutions to Preserve Humanities and Social Sciences Research.” _Open Research for the Humanities and Social Sciences_, special issue of _Journal of Electronic Publishing_, edited by Jenni Adams, Miranda L. Barnes, and Samuel Moore, vol. 29, no. 1, 2026, https://doi.org/10.3998/jep.7860.
 - Tracy, Daniel, and Graham Jensen. “Humanities Scholars’ Needs for Open Social Scholarship Platforms as Online Scholarly Information Sharing Infrastructure.” _First Monday_, vol. 30, no. 2, 2025, [https://doi.org/10.5210/fm.v30i2.13742](https://doi.org/10.5210/fm.v30i2.13742).
 - Jensen, Graham. “Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution of Open Scholarship.” _Open Scholarship Press Curated Volume: Connection_, edited by Graham Jensen, Open Scholarship Press, 2023, [doi.org/10.21428/47bc126e.0ca461a4](https://doi.org/10.21428/47bc126e.0ca461a4).
 - "Beyond 'Mere Digitization': Introducing the Canadian Modernist Magazines Project." _Future Horizons: Canadian Digital Humanities_, edited by Paul Barrett and Sarah Roger, U of Ottawa P, 2023, 367–88.
@@ -64,6 +68,8 @@ Reviews*, no. 74, 2014, pp. 30–59.
   
 ### Other Publications
 
+- Co-author, “Unlocking the Value of Canada's Research Data.” Digital Research Alliance of Canada. Position paper, 31 Mar. 2026, https://doi.org/10.5281/zenodo.19341327.
+- Forghan Parast, Faraz, Brittany Amell, Alan Colín-Arce, Graham Jensen, Tim Sobie, Thomas Sherriff, and Ray Siemens. “Taking Bearings: Open Social Scholarship meets AI.” Video essay, 17 Nov. 2025, https://doi.org/10.25547/7KJB-FQ98.
 - “Digital Knowledge Commons: A Brief Introduction.” Video essay, 13 June 2022, <https://doi.org/10.25547/AVHX-DJ22>.
 - “Launching a Digital Commons for the Humanities and Social Sciences.” Blog of the Federation for the Humanities and Social Sciences, 5 Apr. 2022, <https://www.federationhss.ca/en/blog/launching-digital-commons-humanities-and-social-sciences>.
 - “Open Scholarship Resource,” with Alyssa Arbuckle and Talya Jesperson. *Electronic Textual Cultures Lab*, Mar. 2021, <https://etcl.uvic.ca/open-scholarship-resources/>.
@@ -73,6 +79,10 @@ Reviews*, no. 74, 2014, pp. 30–59.
 
 ## Major Digital Publications and Projects
 
+**[_Mapping Religion in the Global Anglophone Novel (MaRGAN)_](/dh/margan/)** - Project team member and lead developer
+
+- A digital mapping, visualization, and exhibit project to examine the rise of the novel as a global form and religious change following the impact of modernity. I developed the project’s open access database, collaborative editing workflow, and website (featuring advanced customizations of [CollectionBuilder](https://collectionbuilder.github.io/)). Other project team members: Elizabeth Anderson (U Aberdeen), Jamie Callison (U Agder), Suzanne Hobson (Queen Mary U London), and Mimi Winick (Virginia Commonwealth U).
+  
 **[_Canadian Modernist Magazines Project_](/dh/canadian-modernist-magazines-project/)** - Principal Investigator
 
 - A public-facing digital repository and virtual research hub for those interested in reading, analyzing, or teaching Canadian modernist "little magazines." The CMMP website will include critical introductions of select Canadian modernist magazines, tools for computational analysis of the transcribed texts, sample lesson plans, and relevant syllabi. Partnered with the _Modernist Versions Project_, _Editing Modernism in Canada_, the _Blue Mountain Project_, Princeton University Library, McGill University Archives, Dalhousie University, the University of New Brunswick, University of Toronto Libraries, and Mount Allison University. Grant funded by the Social Sciences and Humanities Research Council of Canada.
@@ -91,6 +101,7 @@ Reviews*, no. 74, 2014, pp. 30–59.
 
 ## Plenaries, Keynotes, and Invited Talks
 
+- “Co-Evolving the Canadian Data Landscape: The National Data Spaces Pilot Program.” CRDCN 2026: Evolving the Data Landscape. Canadian Research Data Centre Network, 21 May 2026, University of Lethbridge, Lethbridge. Invited talk.
 - Jensen, Graham, and Ray Siemens. “A Multilingual Space for Open, Collaborative Scholarship: The Humanities and Social Sciences Commons.” Jornada de Humanidades Digitais da PUCRS. PUCRS Digital Humanities Lab, 3 Apr. 2025, Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil. Invited talk.
 - Jensen, Graham, and Ray Siemens. “Digital Commons for Open, Accessible Publishing and Community Building.” Jagiellonian Centre for Digital Humanities, 8 May 2024, Jagiellonian University, Krakow. Invited talk.
 - Siemens, Ray, Alyssa Arbuckle, and Graham Jensen. “The Digital Humanities, and its Foundation for Open Social Scholarship.” HEPiX Autumn 2023 Workshop, 16 Oct. 2023, University of Victoria, Victoria. Invited talk.
@@ -109,7 +120,8 @@ Reviews*, no. 74, 2014, pp. 30–59.
 
 ### Workshops
 
-- 2024 Jensen, Graham, and Dan Tracy. “HSS Commons Workshop and Feedback Session.” Creative Approaches to Open Social Scholarship: Canada. Implementing New Knowledge Environments Partnership, 18 June 2024, Université de Montréal, Montreal.
+- Callison, Jamie, Elizabeth Anderson, Mimi Winick, Graham Jensen, and Suzanne Hobson. “Mapping Religion in the Global Anglophone Novel.” Modernist Studies Association, 3 July 2026, Loughborough, United Kingdom.
+- Jensen, Graham, and Dan Tracy. “HSS Commons Workshop and Feedback Session.” Creative Approaches to Open Social Scholarship: Canada. Implementing New Knowledge Environments Partnership, 18 June 2024, Université de Montréal, Montreal.
 - Jensen, Graham, and Dan Tracy. “HSS Commons Workshop and Feedback Sessions.” Digital Humanities Summer Institute, June and July 2024, University Victoria, Victoria.
 - Jensen, Graham, Ray Siemens, and Randa El Khatib. “Introduction to the Canadian HSS Commons.” HSS Winter Series. Digital Research Alliance of Canada, 12 Feb. 2024, Online.
 - Jensen, Graham, Randa El Khatib, and Ray Siemens. “A Scoped Commons Environment for the Social Sciences and Humanities.” Winter Institute in Digital Humanities. 16 Jan. 2024, NYU Abu Dhabi, United Arab Emirates.
@@ -149,6 +161,11 @@ Reviews*, no. 74, 2014, pp. 30–59.
 
 ### Papers Presented
 
+- Jensen, Graham, CJ Woodford, Marshall Gunter, and Felipe Pérez Jvostov. “Championing Data through Inclusive, National DRI: The Canadian Research Data Platform.” International Association for Social Science Information Service & Technology, 2 June 2026, Online.
+- Woodford, CJ, and Graham Jensen. “Streamlining Data Access and Addressing Disciplinary Data Needs Through Data Spaces.” Research Data Access and Preservation, 16 Apr. 2026, Online.
+- “From Vision to Implementation: Engaging Diverse Research Data Communities to Shape a National Data Platform.” Research Data Access and Preservation, 15 Apr. 2026, Online.
+- “AI Investments and Infrastructure: Laying Foundations for Digital Research in Canada.” Artificial Intelligence in Open, Social Scholarship: Canadian and Brazilian Contexts. Electronic Textual Cultures Lab, 21 Jan. 2026, University of Victoria, Victoria.
+- Amell, Brittany, Alan Colín-Arce, Graham Jensen, and Ray Siemens. “Engaging Platforms in Open Scholarship.” Research Creation, Community Engagement, and Open Social Scholarship. Implementing New Knowledge Environments, 1–3 May 2025, Acadia University, Wolfville.
 - Amell, Brittany, Alan Colín-Arce, Graham Jensen, and Ray Siemens. “Platforms–Agents, Foes, or Allies of Scholarly Communication?” Commons, Platforms and Emerging Knowledge Frameworks. Canadian-Australian Partnership for Open Scholarship, 2–3 Dec. 2024, Flinders University, Australia.
 - Jensen, Graham, Brittany Amell, Alyssa Arbuckle, Ray Siemens, Hannah Paveck, Karine Morin, Lana Galbraith, Brody Rodgers, and Camille Ferrier. “Open Infrastructure in Canada and Beyond: Updates and Next Steps for ‘A Digital Commons Space for the Federation for the Humanities and Social Sciences.’” Commons, Platforms and Emerging Knowledge Frameworks. Canadian-Australian Partnership for Open Scholarship, 2–3 Dec. 2024, Flinders University, Australia.
 - Arbuckle, Alyssa, Caroline Winter, Randa El Khatib, Graham Jensen, and Ray Siemens. “The Open Scholarship Press, an INKE/CAPOS Research Intervention.” Commons, Platforms and Emerging Knowledge Frameworks. Canadian-Australian Partnership for Open Scholarship, 2–3 Dec. 2024, Flinders University, Australia.
